@@ -59,6 +59,13 @@ a:hover {
   outline: 0;
 }
 
+
+body.home #homeTab
+{
+    color: #f00;
+}
+
+
 h1 {
   margin: 0.67em 0;
   font-size: 2em;
