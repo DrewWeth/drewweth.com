@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
-gem 'sinatra'
-gem "oauth", "~> 0.4.7"
-gem "json", "~>1.8.1"
+gem 'sinatra', '1.1.0'
+ruby "2.0.0"
